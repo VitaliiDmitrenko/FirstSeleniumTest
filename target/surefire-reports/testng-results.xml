@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-05-18T21:11:09 EEST" name="FirstTest" finished-at="2021-05-18T21:11:34 EEST" duration-ms="24164">
+    <groups>
+    </groups>
+    <test started-at="2021-05-18T21:11:09 EEST" name="Command line test" finished-at="2021-05-18T21:11:34 EEST" duration-ms="24164">
+      <class name="FirstTest">
+        <test-method is-config="true" signature="beforeClass()[pri:0, instance:FirstTest@333291e3]" started-at="2021-05-18T21:11:09 EEST" name="beforeClass" finished-at="2021-05-18T21:11:10 EEST" duration-ms="465" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method is-config="true" signature="beforeTest()[pri:0, instance:FirstTest@333291e3]" started-at="2021-05-18T21:11:10 EEST" name="beforeTest" finished-at="2021-05-18T21:11:12 EEST" duration-ms="2128" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method signature="testAutomationPracticeForm()[pri:0, instance:FirstTest@333291e3]" started-at="2021-05-18T21:11:12 EEST" name="testAutomationPracticeForm" finished-at="2021-05-18T21:11:25 EEST" duration-ms="12782" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testAutomationPracticeForm -->
+        <test-method is-config="true" signature="closeDriver()[pri:0, instance:FirstTest@333291e3]" started-at="2021-05-18T21:11:25 EEST" name="closeDriver" finished-at="2021-05-18T21:11:26 EEST" duration-ms="758" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeDriver -->
+        <test-method is-config="true" signature="beforeTest()[pri:0, instance:FirstTest@333291e3]" started-at="2021-05-18T21:11:26 EEST" name="beforeTest" finished-at="2021-05-18T21:11:28 EEST" duration-ms="2194" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method signature="testVitaliiDmitrenko()[pri:0, instance:FirstTest@333291e3]" started-at="2021-05-18T21:11:28 EEST" name="testVitaliiDmitrenko" finished-at="2021-05-18T21:11:33 EEST" duration-ms="5028" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testVitaliiDmitrenko -->
+        <test-method is-config="true" signature="closeDriver()[pri:0, instance:FirstTest@333291e3]" started-at="2021-05-18T21:11:33 EEST" name="closeDriver" finished-at="2021-05-18T21:11:34 EEST" duration-ms="771" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeDriver -->
+      </class> <!-- FirstTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- FirstTest -->
+</testng-results>
